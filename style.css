@@ -1,0 +1,17 @@
+#dropbox {
+    width: 600px;
+    height: 300px;
+    border: 6px dashed #333333;
+    text-align: center;
+    padding-top: 120px;
+    background-color: #4248f4;
+  }
+  
+  #convertButton {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #e30303;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+  }
